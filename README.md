@@ -37,3 +37,16 @@ PhishHunterX is a cybersecurity web application developed using Django and Machi
 ## Author
 Inupamula Yashwanth
 Cyber Security student
+## How to Run the Project
+
+1. Activate virtual environment
+    venv\Scripts\activate
+
+2. Navigate to the project directory
+   cd phishing_detection_system
+
+3. Start the Django server
+   py manage.py runserver
+
+4. Open the application
+   http://127.0.0.1:8000
